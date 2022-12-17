@@ -1,0 +1,97 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"1999"	"1999"	4678	14300511	32.7	38.3	37.2	39.5
+	"2000"	"2000"	4722	14409625	32.8	38.2	37.1	39.3
+	"2001"	"2001"	5390	14606002	36.9	42.7	41.5	43.8
+	"2002"	"2002"	5854	14763999	39.7	45.5	44.3	46.7
+	"2003"	"2003"	6256	14974195	41.8	47.6	46.4	48.7
+	"2004"	"2004"	6882	15187630	45.3	51.2	50.0	52.4
+	"2005"	"2005"	7239	15447939	46.9	52.5	51.2	53.7
+	"2006"	"2006"	7636	15733245	48.5	54.0	52.8	55.2
+	"2007"	"2007"	8408	16089109	52.3	57.9	56.7	59.2
+	"2008"	"2008"	9110	16583908	54.9	61.2	59.9	62.4
+	"2009"	"2009"	9487	17025424	55.7	62.1	60.8	63.3
+	"2010"	"2010"	9838	17362960	56.7	63.1	61.8	64.3
+	"2011"	"2011"	10471	17943371	58.4	64.5	63.3	65.8
+	"2012"	"2012"	10951	18815045	58.2	65.4	64.2	66.6
+	"2013"	"2013"	11763	19599941	60.0	67.9	66.6	69.1
+	"2014"	"2014"	12491	20351292	61.4	69.8	68.6	71.0
+	"2015"	"2015"	13306	21090217	63.1	72.2	71.0	73.5
+	"2016"	"2016"	13721	21792826	63.0	72.3	71.1	73.5
+	"2017"	"2017"	14650	22564684	64.9	74.9	73.7	76.1
+	"2018"	"2018"	15273	23306818	65.5	75.5	74.3	76.8
+	"2019"	"2019"	16331	24074290	67.8	78.5	77.3	79.7
+	"2020 "	"2020"	17461	24821508	70.3	81.8	80.6	83.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Gender: Male"
+"ICD-10 Codes: W00 (Fall on same level involving ice and snow); W01 (Fall on same level from slipping, tripping and stumbling);"
+"W02 (Fall involving ice-skates, skis, roller-skates or skateboards); W03 (Other fall on same level due to collision with, or"
+"pushing by, another person); W04 (Fall while being carried or supported by other persons); W05 (Fall involving wheelchair); W06"
+"(Fall involving bed); W07 (Fall involving chair); W08 (Fall involving other furniture); W09 (Fall involving playground"
+"equipment); W10 (Fall on and from stairs and steps); W11 (Fall on and from ladder); W12 (Fall on and from scaffolding); W13"
+"(Fall from, out of or through building or structure); W14 (Fall from tree); W15 (Fall from cliff); W16 (Diving or jumping into"
+"water causing injury other than drowning or submersion); W17 (Other fall from one level to another); W18 (Other fall on same"
+"level); W19 (Unspecified fall)"
+"Ten-Year Age Groups: 65-74 years; 75-84 years; 85+ years"
+"Group By: Year"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Dec 14, 2022 3:52:58 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Dec 14, 2022 3:52:58 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
