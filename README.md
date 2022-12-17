@@ -3,7 +3,7 @@
 Here I provide code for: Trends in falls among older adults in the United States
 
 # Organization
-The 
+The repository contains five folders
 - `CODE`  — Scripts to produce the Figures.
 - `DATA`  — Initial data obtained from CDC Wonder.
 - `DATA-PROCESSED` — Excel files created for analysis in R.
