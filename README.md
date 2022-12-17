@@ -1,6 +1,10 @@
 # Introduction
 
-Here I provide code for: Trends in falls among older adults in the United States
+Here I provide code for: Trends in falls among older adults in the United States, 1999-2020
+
+### Citation
+
+> Santos-Lozada, A.R. (202X) Trends in falls among older adults in the United States, 1999-2020.
 
 # Organization
 The repository contains five folders
