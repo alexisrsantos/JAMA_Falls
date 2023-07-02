@@ -4,7 +4,7 @@ Here I provide code for: Trends in falls among older adults in the United States
 
 ### Citation
 
-> Santos-Lozada, A.R. (2023) Trends in falls among older adults in the United States, 1999-2020. *Journal of the American Medical Association*.
+> Santos-Lozada, A.R. (2023) Trends in falls among older adults in the United States, 1999-2020. *Journal of the American Medical Association*, 329 (18), pp. 1605-1607.
 
 # Organization
 The repository contains five folders
